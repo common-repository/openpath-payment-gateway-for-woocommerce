@@ -1,0 +1,22 @@
+*** OpenPath for WooCommerce Changelog ***
+2023-12-05 - version 3.8.4
+* Added device's fingerprint to sale request
+
+2022-05-16 - version 3.8.3
+* Fixed adding processing values when store has subscription items
+
+2022-01-14 - version 3.8.2
+* Changed versioning on js files
+
+2021-12-09 - version 3.8.1
+* Fixed moving order status from 'refunded' on decline or errored payment response to 'failed'
+
+2021-10-20 - version 3.8.0
+* Added InterPayments surcharging support
+* Added fee 'Transaction Fee' when surcharging 
+
+2021-10-01 - version 3.7.2
+* Fixed sanitization and escaping
+
+2020-11-10 - version 3.7.1
+* Initial Release
